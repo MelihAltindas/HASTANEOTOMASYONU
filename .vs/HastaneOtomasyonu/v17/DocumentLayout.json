@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melih\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Otomasyonu\\HastaneOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87E9875C-E1CC-4BD1-90F4-A405D3C8EECF}|HastaneOtomasyonu\\PrensentationLayer.csproj|c:\\users\\melih\\onedrive\\masa\u00FCst\u00FC\\hastane otomasyonu\\hastaneotomasyonu\\hastaneotomasyonu\\doktorislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E9875C-E1CC-4BD1-90F4-A405D3C8EECF}|HastaneOtomasyonu\\PrensentationLayer.csproj|solutionrelative:hastaneotomasyonu\\doktorislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBF0FC4-D8F0-4DA3-A135-FDE6E8DDF93E}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\melih\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Otomasyonu\\HastaneOtomasyonu\\businesslayer\\doktorislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEBF0FC4-D8F0-4DA3-A135-FDE6E8DDF93E}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\doktorislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E9875C-E1CC-4BD1-90F4-A405D3C8EECF}|HastaneOtomasyonu\\PrensentationLayer.csproj|C:\\Users\\melih\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Otomasyonu\\HastaneOtomasyonu\\hastaneotomasyonu\\doktorislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E9875C-E1CC-4BD1-90F4-A405D3C8EECF}|HastaneOtomasyonu\\PrensentationLayer.csproj|solutionrelative:hastaneotomasyonu\\doktorislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AB9336-0711-4C6F-9AF7-5F49E8E4C240}|EntitiyLayer\\EntitiyLayer.csproj|C:\\Users\\melih\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Otomasyonu\\HastaneOtomasyonu\\entitiylayer\\doktortablosu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AB9336-0711-4C6F-9AF7-5F49E8E4C240}|EntitiyLayer\\EntitiyLayer.csproj|solutionrelative:entitiylayer\\doktortablosu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1241,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoktorTablosu.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Otomasyonu\\HastaneOtomasyonu\\EntitiyLayer\\DoktorTablosu.cs",
+              "RelativeDocumentMoniker": "EntitiyLayer\\DoktorTablosu.cs",
+              "ToolTip": "C:\\Users\\melih\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Otomasyonu\\HastaneOtomasyonu\\EntitiyLayer\\DoktorTablosu.cs",
+              "RelativeToolTip": "EntitiyLayer\\DoktorTablosu.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:43:57.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "doktorIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Otomasyonu\\HastaneOtomasyonu\\BusinessLayer\\doktorIslemleri.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\doktorIslemleri.cs",
+              "ToolTip": "C:\\Users\\melih\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Otomsayonu\\HastaneOtomasyonu\\BusinessLayer\\doktorIslemleri.cs*",
+              "RelativeToolTip": "..\\..\\Hastane Otomsayonu\\HastaneOtomasyonu\\BusinessLayer\\doktorIslemleri.cs*",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAwwA4BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:50:35.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoktorIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Otomasyonu\\HastaneOtomasyonu\\HastaneOtomasyonu\\DoktorIslemleri.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyonu\\DoktorIslemleri.cs",
+              "ToolTip": "C:\\Users\\melih\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Otomasyonu\\HastaneOtomasyonu\\HastaneOtomasyonu\\DoktorIslemleri.cs",
+              "RelativeToolTip": "HastaneOtomasyonu\\DoktorIslemleri.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAcwDMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:22:45.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoktorIslemleri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\melih\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Otomasyonu\\HastaneOtomasyonu\\HastaneOtomasyonu\\DoktorIslemleri.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyonu\\DoktorIslemleri.cs",
+              "ToolTip": "C:\\Users\\melih\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Otomsayonu\\HastaneOtomasyonu\\HastaneOtomasyonu\\DoktorIslemleri.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "..\\..\\Hastane Otomsayonu\\HastaneOtomasyonu\\HastaneOtomasyonu\\DoktorIslemleri.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:22:29.77Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
